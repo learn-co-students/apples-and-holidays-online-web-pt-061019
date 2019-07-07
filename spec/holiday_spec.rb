@@ -18,7 +18,7 @@ describe "holiday_supplies_hash" do
     }
   }
 
- # Question 1
+ # Question 1 
  # Write a method that returns the second supply for the Fourth of July
   describe "#second_supply_for_fourth_of_july" do
     it "returns the string 'BBQ' without hardcoding it" do
